@@ -1,17 +1,8 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/YadavAkash96">Akash Yadav</a></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YadavAkash96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/akash-yadav-721284141/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:akash.yadav@fau.de"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
+<!-- Updated Transformer/Coding themed GIF -->
 <img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+
 
 ## 😀 About Me
 
@@ -25,7 +16,7 @@ With industry experience in R&D, computer vision, and cloud-based deployment, I 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![C](https://img.shields.io/badge/-C-222222?logo=c&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=csharp&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
@@ -86,9 +77,14 @@ With industry experience in R&D, computer vision, and cloud-based deployment, I 
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akash-yadav-721284141/)  
-- 💌 [akash.yadav@fau.de](mailto:akash.yadav@fau.de)  
-- 🌐 [GitHub](https://github.com/YadavAkash96)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/akash-yadav-721284141/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="mailto:akash.yadav@fau.de"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YadavAkash96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
