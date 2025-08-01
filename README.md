@@ -59,6 +59,7 @@ With industry experience in R&D, computer vision, and cloud-based deployment, I 
 - [📚 PDF-based Conversational QA with RAG + LangChain](https://github.com/YadavAkash96)  
 - [📊 Writer Identification & Retrieval using DenseNet (ICDAR2017)](https://github.com/YadavAkash96/WriterIdentification)  
 - [🚗 Recommender System for Ride Sharing @ uRyde](https://www.mad.tf.fau.de/teaching/innolab/share-a-ride/)
+- [3D-Object Segmentation](https://github.com/YadavAkash96/Visual-Segmentation-of-shape-by-cause-in-PyTorch)
 
 ---
 
