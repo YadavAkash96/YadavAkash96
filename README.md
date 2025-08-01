@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <a href="https://github.com/YadavAkash96">Akash Yadav</a></h1>
+<h2 align="left">Hi there 👋, I'm <a href="https://github.com/YadavAkash96">Akash Yadav</a></h2>
 
 <!-- Updated Transformer/Coding themed GIF -->
 <img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
