@@ -59,7 +59,6 @@ With industry experience in R&D, computer vision, and cloud-based deployment, I 
 - [🚗 Recommender System for Ride Sharing @ uRyde](https://www.mad.tf.fau.de/teaching/innolab/share-a-ride/)
 - [🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS/CRISP)](https://github.com/YadavAkash96)  
 - [Visual Segmentation of shape by cause](https://github.com/YadavAkash96/Visual-Segmentation-of-shape-by-cause-in-PyTorch)
-- [📚 PDF-based Conversational QA with RAG + LangChain](https://github.com/YadavAkash96)  
 
 ---
 
