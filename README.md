@@ -54,12 +54,12 @@ With industry experience in R&D, computer vision, and cloud-based deployment, I 
 
 ## 📌 Pinned Projects
 
-- [🧠 Time Series XAI: AT-LSTM for Multi-Sensor Fusion](https://github.com/YadavAkash96/XAI-Time-Series)  
-- [🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS/CRISP)](https://github.com/YadavAkash96)  
-- [📚 PDF-based Conversational QA with RAG + LangChain](https://github.com/YadavAkash96)  
+- [🧠 Time Series XAI: AT-LSTM for Multi-Sensor Fusion](https://github.com/YadavAkash96/XAI-Time-Series)
 - [📊 Writer Identification & Retrieval using DenseNet (ICDAR2017)](https://github.com/YadavAkash96/WriterIdentification)  
 - [🚗 Recommender System for Ride Sharing @ uRyde](https://www.mad.tf.fau.de/teaching/innolab/share-a-ride/)
-- [3D-Object Segmentation](https://github.com/YadavAkash96/Visual-Segmentation-of-shape-by-cause-in-PyTorch)
+- [🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS/CRISP)](https://github.com/YadavAkash96)  
+- [Visual Segmentation of shape by cause](https://github.com/YadavAkash96/Visual-Segmentation-of-shape-by-cause-in-PyTorch)
+- [📚 PDF-based Conversational QA with RAG + LangChain](https://github.com/YadavAkash96)  
 
 ---
 
