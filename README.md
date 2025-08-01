@@ -54,7 +54,7 @@ With industry experience in R&D, computer vision, and cloud-based deployment, I 
 
 ## 📌 Pinned Projects
 
-- [🧠 Time Series XAI: AT-LSTM for Multi-Sensor Fusion](https://github.com/YadavAkash96/AT-LSTM-XAI-TimeSeries)  
+- [🧠 Time Series XAI: AT-LSTM for Multi-Sensor Fusion](https://github.com/YadavAkash96/XAI-Time-Series)  
 - [🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS/CRISP)](https://github.com/YadavAkash96)  
 - [📚 PDF-based Conversational QA with RAG + LangChain](https://github.com/YadavAkash96)  
 - [📊 Writer Identification & Retrieval using DenseNet (ICDAR2017)](https://github.com/YadavAkash96/WriterIdentification)  
