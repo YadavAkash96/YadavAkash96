@@ -1,52 +1,96 @@
-# Hi there 👋, I'm Akash Yadav
+<h1 align="center">Hi there 👋, I'm <a href="https://github.com/YadavAkash96">Akash Yadav</a></h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YadavAkash96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akash-yadav-721284141/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:akash.yadav@fau.de"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 <img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
 ## 😀 About Me
 
-I'm Akash Yadav — an AI explorer, researcher, and master's student on a mission to build smart, explainable, and impactful AI systems. My current journey dives deep into **Large Language Models (LLMs)**, **GenAI**, and **uncertainty-aware medical image segmentation**. I'm passionate about making AI models not only intelligent but also interpretable and robust.
-
-Whether it's decoding medical scans with deep learning, improving time series explainability with attention-based LSTMs, or tinkering with Retrieval-Augmented Generation (RAG) pipelines, I love taking on challenging problems with curiosity and creativity.
+I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.  
+My passion lies in building robust, interpretable, and scalable AI systems — from LLMs and GenAI to 3D object segmentation and time-series explainability.  
+With industry experience in R&D, computer vision, and cloud-based deployment, I thrive at the intersection of **research and real-world impact**.
 
 ---
 
 ## 🧰 Tech Stack I'm Comfortable With
 
-**Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)  
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat)  
-![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white&style=flat)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)  
-![LangChain](https://img.shields.io/badge/-LangChain-00C7B7?style=flat)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-222222?logo=c&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black&style=flat)
+![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-00C7B7?style=flat)
+![System Design](https://img.shields.io/badge/-GenAI%20System%20Design-8E44AD?style=flat&logo=airbnb&logoColor=white)
 
 ---
 
-## 😉 More About Me
+## 🏆 Highlights
 
-- 🚀 Master's in AI | Focus: LLMs, GenAI, and Uncertainty Estimation  
-- 🧠 Passionate about building interpretable models (XAI), especially for time-series and medical imaging  
-- 🔍 Currently exploring **LLM Evaluation**, **Personalization**, and **RAG architectures**  
-- 📝 Writing and sharing insights on AI, research, and projects through GitHub & blogs  
-- 🤝 Open to collaborations in AI/ML research, impactful open-source work, and GenAI tools  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/akash96yadav/) | [Email](mailto:your.email@domain.com)  
+- 👨‍🎓 MSc in AI @ Friedrich-Alexander-Universität (FAU), Germany | B.Tech in IT  
+- 🧠 Researcher in LLM Evaluation, XAI, RAG, and Uncertainty Estimation in Medical Imaging  
+- 💻 Built models for **Writer Identification (ICDAR2017)**, **Visual Segmentation**, and **Ride-Sharing Recommenders**
+- 📈 Delivered production-ready solutions at **Weatherford**, **WSAudiology**, and **Amdocs**
+- 🚀 Achieved **F1-score: 0.92+** in real-world ML tasks with customized loss functions  
+- 📄 Publication in JETIR on attendance monitoring using vision systems  
+- 🛠 Skilled in developing microservices with Clean Architecture and deploying AI with Docker & Azure  
+- 🌍 Based in Germany | Open to collaborations in AI/ML research and applied GenAI
 
 ---
 
 ## 📌 Pinned Projects
 
-[🧠 Making Time Series Models Explainable (AT-LSTM, Multi-Sensor Fusion, XAI)](https://github.com/YadavAkash96/AT-LSTM-XAI-TimeSeries)  
-[🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS, CRISP)](https://github.com/YadavAkash96)  
-[📚 RAG-based Document QA with LangChain](https://github.com/YadavAkash96)  
-[🔬 LLM Evaluation with Custom Datasets](https://github.com/YadavAkash96)
+- [🧠 Time Series XAI: AT-LSTM for Multi-Sensor Fusion](https://github.com/YadavAkash96/AT-LSTM-XAI-TimeSeries)  
+- [🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS/CRISP)](https://github.com/YadavAkash96)  
+- [📚 PDF-based Conversational QA with RAG + LangChain](https://github.com/YadavAkash96)  
+- [📊 Writer Identification & Retrieval using DenseNet (ICDAR2017)](https://github.com/YadavAkash96)  
+- [🚗 Recommender System for Ride Sharing @ uRyde](https://github.com/YadavAkash96)
 
 ---
 
-> ✨ Let's build AI that's not just smart — but **trustworthy, personal, and impactful.**  
-👉 Happy building and learning!
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YadavAkash96&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavAkash96&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YadavAkash96&theme=radical" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akash-yadav-721284141/)  
+- 💌 [akash.yadav@fau.de](mailto:akash.yadav@fau.de)  
+- 🌐 [GitHub](https://github.com/YadavAkash96)  
+
+---
+
+> ✨ Let's build AI that's not just smart — but **trustworthy, explainable, and real-world ready.**  
+👉 Happy building and learning!
