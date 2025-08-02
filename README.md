@@ -1,12 +1,10 @@
-<h2 align="left">Hi there 👋, I'm <a href="https://github.com/YadavAkash96">Akash Yadav</a></h2>
 
 <!-- Updated Transformer/Coding themed GIF -->
-<img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
+<img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
+## About Me
 
-## 😀 About Me
-
-I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.  
+I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany. 
 My passion lies in building robust, interpretable, and scalable AI systems — from LLMs and GenAI to 3D object segmentation and time-series explainability.  
 With industry experience in R&D, computer vision, and cloud-based deployment, I thrive at the intersection of **research and real-world impact**.
 
