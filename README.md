@@ -77,7 +77,7 @@ computer vision, and software development, I thrive at the intersection of **res
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/akash-yadav-721284141/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/akash-yadav-721284141/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:akash.yadav@fau.de"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
