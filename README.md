@@ -1,7 +1,8 @@
 # 👋 Hi, There!
 
+
 ## About Me 
-<img align="right" alt="AI GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJvM2l2cms4Y2QxM3NkZXp6ajZqeDdzMDB3ZWZ1Ymp4aHE4NGlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpfOTmeHqtsZhWN9Y/giphy.gif" width="250"/>  
+<img align="right" alt="AI GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJvM2l2cms4Y2QxM3NkZXp6ajZqeDdzMDB3ZWZ1Ymp4aHE4NGlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpfOTmeHqtsZhWN9Y/giphy.gif"  width="350"/>  
 
 Welcome to my portfolio! I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.
 My passion lies in building robust, interpretable, and scalable AI systems — from LLMs and GenAI 
