@@ -1,8 +1,8 @@
+# 👋 Hi, There!
 
 ## About Me 
 
-
-I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.<img align="right" alt="AI GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJvM2l2cms4Y2QxM3NkZXp6ajZqeDdzMDB3ZWZ1Ymp4aHE4NGlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpfOTmeHqtsZhWN9Y/giphy.gif" width="250"/>  
+Welcome to my portfolio! I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.<img align="right" alt="AI GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJvM2l2cms4Y2QxM3NkZXp6ajZqeDdzMDB3ZWZ1Ymp4aHE4NGlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpfOTmeHqtsZhWN9Y/giphy.gif" width="250"/>  
 My passion lies in building robust, interpretable, and scalable AI systems — from LLMs and GenAI 
 to 3D object segmentation and time-series explainability.With industry experience in R&D, 
 computer vision, and software development, I thrive at the intersection of **research and real-world impact**.
@@ -37,8 +37,9 @@ computer vision, and software development, I thrive at the intersection of **res
 
 ## 🏆 Highlights
 
-- 👨‍🎓 MSc in AI @ Friedrich-Alexander-Universität (FAU), Germany | B.Tech in IT  
-- 🧠 Researcher in LLM Evaluation, XAI, RAG, and Uncertainty Estimation in Medical Imaging  
+- 👨‍🎓 MSc in AI @ Friedrich-Alexander-Universität (FAU), Germany | B.Tech in IT
+- 🔬 Current Work: Master Thesis in Uncertainty Estimation, Segmentation, 
+- 🧠 Researcher in LLM Evaluation, XAI, RAG, Vision, and Uncertainty Estimation in Medical Imaging  
 - 💻 Built models for **Writer Identification (ICDAR2017)**, **Visual Segmentation**, and **Ride-Sharing Recommenders**
 - 📈 Delivered production-ready solutions at **Weatherford**, **WSAudiology**, and **Amdocs**
 - 🚀 Achieved **F1-score: 0.92+** in real-world ML tasks with customized loss functions  
