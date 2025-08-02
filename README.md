@@ -1,8 +1,10 @@
 
+<img align="right" alt="AI GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAyOHFpaWRuODUxajBobTQ0Z2NxcDljNWhnMjRqODkyNTc0NTlhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZW9RkoNqEItptErDL6/giphy.gif" width="250"/>
+
+
+
 
 ## About Me 
-
-<img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
 
 I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.  
@@ -86,6 +88,3 @@ computer vision, and software development, I thrive at the intersection of **res
 </p>
 
 ---
-
-> ✨ Let's build AI that's not just smart — but **trustworthy, explainable, and real-world ready.**  
-👉 Happy building and learning!
