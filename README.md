@@ -1,6 +1,5 @@
 
-## About Me
-<!-- Updated Transformer/Coding themed GIF -->
+## About Me <!-- Updated Transformer/Coding themed GIF -->
 <img align="right" alt="AI GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 
 I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.  
