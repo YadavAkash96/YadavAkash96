@@ -4,8 +4,8 @@
 ## About Me 
 <img align="right" alt="AI GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJvM2l2cms4Y2QxM3NkZXp6ajZqeDdzMDB3ZWZ1Ymp4aHE4NGlmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RIpfOTmeHqtsZhWN9Y/giphy.gif"  width="320"/>  
 
-Welcome to my portfolio! I'm [Akash Yadav](https://github.com/YadavAkash96) — a curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.
-My passion lies in building robust, interpretable, and scalable AI systems — from LLMs and GenAI 
+Welcome to my portfolio! I'm [Akash Yadav](https://github.com/YadavAkash96): A curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.
+My passion lies in building robust, interpretable, and scalable AI systems from LLMs and GenAI 
 to 3D object segmentation and time-series explainability.With industry experience in R&D, 
 computer vision, and software development, I thrive at the intersection of **research and real-world impact**.
 
@@ -56,7 +56,6 @@ computer vision, and software development, I thrive at the intersection of **res
 - [🧠 Time Series XAI: AT-LSTM for Multi-Sensor Fusion](https://github.com/YadavAkash96/XAI-Time-Series)
 - [📊 Writer Identification & Retrieval using DenseNet (ICDAR2017)](https://github.com/YadavAkash96/WriterIdentification)  
 - [🚗 Recommender System for Ride Sharing @ uRyde](https://www.mad.tf.fau.de/teaching/innolab/share-a-ride/)
-- [🩺 Medical Image Segmentation & Uncertainty Estimation (CAMUS/CRISP)](https://github.com/YadavAkash96)  
 - [Visual Segmentation of shape by cause](https://github.com/YadavAkash96/Visual-Segmentation-of-shape-by-cause-in-PyTorch)
 
 ---
