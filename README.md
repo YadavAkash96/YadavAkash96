@@ -6,8 +6,9 @@
 
 Welcome to my portfolio! I'm [Akash Yadav](https://github.com/YadavAkash96): A curious AI explorer and MSc Artificial Intelligence student at FAU, Germany.
 My passion lies in building robust, interpretable, and scalable AI systems from LLMs and GenAI 
-to 3D object segmentation and time-series explainability.With industry experience in R&D, 
-computer vision, and software development, I thrive at the intersection of **research and real-world impact**.
+to 3D object segmentation and time-series explainability.With 5 years of mixed experience in 
+software development and AI development, and a strong background in R&D, computer vision,
+and real-world problem solving, I thrive at the intersection of **research and real-world impact**.
 
 
 ## 🧰 Tech Stack I'm Comfortable With
