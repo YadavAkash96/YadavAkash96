@@ -63,7 +63,6 @@ and real-world problem solving, I thrive at the intersection of **research and r
 
 ## 📊 GitHub Stats
 
-[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadavakash96)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YadavAkash96&layout=compact&theme=radical" height="165" />
