@@ -41,7 +41,7 @@ and real-world problem solving, I thrive at the intersection of **research and r
 ## 🏆 Highlights
 
 - 👨‍🎓 MSc in AI @ Friedrich-Alexander-Universität (FAU), Germany | B.Tech in IT
-- 🔬 Current Work: Master Thesis in Uncertainty Estimation, Segmentation, 
+- 🔬 Current Work: Master Thesis in Uncertainty Estimation on Semantic Segmentation @ ZEISS, 
 - 🧠 Researcher in LLM Evaluation, XAI, RAG, Vision, and Uncertainty Estimation in Medical Imaging  
 - 💻 Built models for **Writer Identification (ICDAR2017)**, **Visual Segmentation**, and **Ride-Sharing Recommenders**
 - 📈 Delivered production-ready solutions at **Weatherford**, **WSAudiology**, and **Amdocs**
