@@ -42,7 +42,8 @@ and real-world problem solving, I thrive at the intersection of **research and r
 
 - 👨‍🎓 MSc in AI @ Friedrich-Alexander-Universität (FAU), Germany | B.Tech in IT
 - 🔬 Current Work: Master Thesis in Uncertainty Estimation on Semantic Segmentation @ ZEISS, 
-- 🧠 Researcher in LLM Evaluation, XAI, RAG, Vision, and Uncertainty Estimation in Medical Imaging  
+- 🧠 Researcher in LLM Evaluation, XAI, RAG, Vision, and Uncertainty Estimation in Medical Imaging
+- ⭐ 1x Hackathon Winner TUM.ai x BKW Engineering
 - 💻 Built models for **Writer Identification (ICDAR2017)**, **Visual Segmentation**, and **Ride-Sharing Recommenders**
 - 📈 Delivered production-ready solutions at **Weatherford**, **WSAudiology**, and **Amdocs**
 - 🚀 Achieved **F1-score: 0.92+** in real-world ML tasks with customized loss functions  
