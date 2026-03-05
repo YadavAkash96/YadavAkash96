@@ -36,14 +36,18 @@ TensorFlow.js object detection runs client-side to avoid streaming raw camera fr
 
 ---
 
-### ✍️ Writer Identification, ICDAR 2017
-[View Repo](https://github.com/YadavAkash96/WriterIdentification)
+### 🛒 EasyBuy, Agentic Shopping Assistant
+[View Repo](https://github.com/YadavAkash96/easybuy-agent)
 
-Unsupervised writer retrieval on historical handwritten documents. The challenge was to learn a feature space where documents by the same writer cluster together, without labeled pairs at training time.
+Tell EasyBuy what you need. It figures out everything else.
 
-Combined NetRVLAD (originally designed for place recognition) with a discriminative DenseNet to learn writer-specific embeddings. Evaluated on the ICDAR 2017 historical handwriting benchmark.
+Say "I need a skiing kit under 400 EUR" and a multi-agent pipeline decomposes that into every item the kit requires, searches real listings across multiple retail platforms, ranks by price, reviews, and delivery speed, assembles the cart, and delivers a PDF invoice to your inbox. No search bars, no tab switching, no manual filtering.
 
-`PyTorch` `DenseNet` `NetRVLAD` `Metric Learning` `Document AI`
+Five specialized agents each own one stage: intent gathering, kit breakdown with budget allocation, multi-platform product search, transparent ranking with user-controlled filters, and cart assembly with email invoice delivery. Each agent is a dedicated FastAPI endpoint with its own prompt design and structured output schema.
+
+Built in 48 hours at the 4th Hack-Nation Global AI Hackathon, February 2026, VC Track.
+
+`FastAPI` `Google Gemini 2.0` `Agents` `SerpAPI` `Next.js` `Docker` `Agentic AI`
 
 ---
 
