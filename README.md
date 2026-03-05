@@ -68,9 +68,11 @@ Built an attention-based LSTM where attention weights directly indicate which se
 | **Amdocs / Tata Technologies**, Software Engineer | India, 2019 to 2022 |
 
 **MSc Artificial Intelligence**, FAU Erlangen-Nürnberg *(ongoing)*
-**BTech Information Technology**, SRTMU Nanded
+
+**BTech Information Technology**, BVP Pune
 
 🏆 Hackathon Winner, TUM.ai x BKW Engineering Challenge
+
 📄 Published, Attendance monitoring via computer vision, JETIR
 
 ---
