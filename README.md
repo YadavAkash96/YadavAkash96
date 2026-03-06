@@ -2,7 +2,9 @@
 
 I build GenAI systems that go beyond demos. RAG pipelines, multimodal applications, and LLM-integrated products that work under real-world constraints.
 
-5 years of experience across production software engineering and applied AI research. Currently finishing my MSc in Artificial Intelligence at FAU Erlangen. My most recent work was inside the RnD division at Carl Zeiss AG, where I spent 9 months on uncertainty estimation in industrial image segmentation as one of the few Master's students embedded in a team of PhDs working on a problem that reaches production.
+5 years of experience across production software engineering and applied AI research. Currently finishing my MSc in Artificial Intelligence at FAU 
+Erlangen. My most recent work was at Carl Zeiss AG, CRT team, where I designed and built a hybrid Bayesian segmentation system for industrial microscopy, 
+combining uncertainty estimation with contrastive learning to separate reliable predictions from edge cases at production scale.
 
 I am most interested in the intersection of **generative AI and high-stakes domains**: healthcare, industrial AI, and enterprise LLM products where getting it wrong has real consequences.
 
